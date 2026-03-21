@@ -94,12 +94,12 @@ https://platzi.com/cursos/fundamentos-python/
   Covered by: `python_match_statement.py`
 - ✅ while loops: conditions, break and continue  
   Covered by: `python_while_loops.py`
-- ⏳ for loops: iterating sequences and lists  
-  Planned: `python_for_loops.py`
+- ✅ for loops: iterating sequences and lists
+  Covered by: `python_for_loops.py`
 
 ### Fundamental data structures
-- ⏳ Lists: creation, mutation and essential methods  
-  Planned: `python_lists.py`
+- ✅ Lists: creation, mutation and essential methods
+  Covered by: `python_lists.py`
 - ⏳ Tuples: ordered, immutable and duplicates  
   Planned: `python_tuples.py`
 - ⏳ Sets: creation, methods and basic operations  
